@@ -1,17 +1,10 @@
-//
-//  AppDelegate.swift
-//  FoodTracker
-//
-//  Created by Jiefeng Liu on 12/12/16.
-//
-//
 
 import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-    var window: UIWindow?
+    var window: UIWindow? // optional
 
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
